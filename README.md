@@ -18,8 +18,7 @@ npm install
 1. Create a PostgreSQL database named `info`.
 
 2. Create a `posts` table using the following SQL:
-
-    ```
+```
     CREATE TABLE posts (
       id SERIAL PRIMARY KEY,
       title VARCHAR(100) NOT NULL,
@@ -27,7 +26,7 @@ npm install
       author VARCHAR(30) NOT NULL,
       date TIMESTAMPTZ NOT NULL
     );
-  ```
+```
 
 ## Set up  Environment Variables
 ```
