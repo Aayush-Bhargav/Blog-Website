@@ -35,3 +35,14 @@ cp sampleEnv.txt .env
 ```
 and replace the required details.
 
+## Launch
+Start the API server
+```
+nodemon index.js
+```
+Start the Backend server
+```
+nodemon server.js
+```
+Open your browser and navigate to http://localhost:3000.
+
