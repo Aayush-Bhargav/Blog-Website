@@ -48,7 +48,7 @@ Open your browser and navigate to http://localhost:3000.
 
 ## Screenshots
 ### Home Page
-[! home page](/screenshots/homePage.png)
+![home page](screenshots/homePage.png)
 
 ## Usage
 
