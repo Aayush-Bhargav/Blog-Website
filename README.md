@@ -46,3 +46,17 @@ nodemon server.js
 ```
 Open your browser and navigate to http://localhost:3000.
 
+## Usage
+
+- **Home Page**: Displays a list of all blog posts.
+- **New Post**: Click the "New Post" button to create a new blog post.
+- **Edit Post**: Click the "Edit" link next to a post to edit it.
+- **Delete Post**: Click the "Delete" link next to a post to delete it.
+
+## API Endpoints
+
+- **GET /posts**: Retrieve all posts.
+- **GET /posts/:id**: Retrieve a specific post by ID.
+- **POST /posts**: Create a new post.
+- **PATCH /posts/:id**: Update a specific post by ID.
+- **DELETE /posts/:id**: Delete a specific post by ID.
