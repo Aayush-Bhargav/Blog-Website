@@ -27,4 +27,11 @@ npm install
       author VARCHAR(30) NOT NULL,
       date TIMESTAMPTZ NOT NULL
     );
-    ```
+  ```
+
+## Set up  Environment Variables
+```
+cp sampleEnv.txt .env
+```
+and replace the required details
+
