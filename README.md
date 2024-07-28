@@ -4,9 +4,12 @@ This is a very simple blog website that allows users to create, read, update, an
 
 ## Installation
 
- **Clone the repository**
-
+ Clone the repository
    ```
    git clone https://github.com/Aayush-Bhargav/Blog-Website.git
    cd Blog-Website
    ```
+Install dependencies
+```
+npm install
+```
