@@ -29,8 +29,9 @@ npm install
 ```
 
 ## Set up  Environment Variables
+Run
 ```
 cp sampleEnv.txt .env
 ```
-and replace the required details
+and replace the required details.
 
