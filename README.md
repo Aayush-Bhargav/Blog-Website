@@ -13,3 +13,18 @@ Install dependencies
 ```
 npm install
 ```
+## Set up PostgreSQL database
+
+1. Create a PostgreSQL database named `info`.
+
+2. Create a `posts` table using the following SQL:
+
+    ```
+    CREATE TABLE posts (
+      id SERIAL PRIMARY KEY,
+      title VARCHAR(100) NOT NULL,
+      content TEXT NOT NULL,
+      author TEXT NOT NULL,
+      date TIMESTAMPTZ NOT NULL
+    );
+    ```
