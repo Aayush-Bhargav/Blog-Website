@@ -24,7 +24,7 @@ npm install
       id SERIAL PRIMARY KEY,
       title VARCHAR(100) NOT NULL,
       content TEXT NOT NULL,
-      author TEXT NOT NULL,
+      author VARCHAR(30) NOT NULL,
       date TIMESTAMPTZ NOT NULL
     );
     ```
