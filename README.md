@@ -49,6 +49,10 @@ Open your browser and navigate to http://localhost:3000.
 ## Screenshots
 ### Home Page
 ![home page](screenshots/homePage.png)
+### New Post
+![new post page](screenshots/newPost.png)
+### Edit Post
+![edit post page](screenshots/editPost.png)
 
 ## Usage
 
