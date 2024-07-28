@@ -4,8 +4,9 @@ This is a blog website that allows users to create, read, update, and delete blo
 
 ## Installation
 
-1. **Clone the repository**
+ **Clone the repository**
 
    ```
-   git clone https://github.com/yourusername/blog-website.git
-   cd blog-website
+   git clone https://github.com/Aayush-Bhargav/Blog-Website.git
+   cd Blog-Website
+   ```
