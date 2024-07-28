@@ -46,6 +46,10 @@ nodemon server.js
 ```
 Open your browser and navigate to http://localhost:3000.
 
+## Screenshots
+### Home Page
+[!home page](screenshots/homePage.png)
+
 ## Usage
 
 - **Home Page**: Displays a list of all blog posts.
